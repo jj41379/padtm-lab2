@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab2</string>
+    <string name="moj_tekst">Hello world!</string>
+    <string name="msg1">First message</string>
+    <string name="msg2">Second message</string>
+    <string name="msg3">Third message</string>
+    <string name="msg4">Fourth message</string>
+    <string name="msg5">Fifth message</string>
+</resources>
